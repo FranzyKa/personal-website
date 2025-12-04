@@ -1,0 +1,19 @@
+h1 {
+    color: purple;
+    background-color: aqua;}
+
+button {
+    background-color: purple;
+    border-radius: 30px;
+    color:aqua;
+}
+.highlight {
+    color: palegreen;
+    font-weight: bold;
+}
+
+
+button:hover {
+    background-color:antiquewhite;  
+
+}
